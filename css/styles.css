@@ -1,0 +1,18 @@
+span.icon-bar {
+    border: 2px solid black;
+}
+
+#nav-list a:hover {
+    background-color: #948281;
+}
+
+#main-content {
+    width: 98%;
+    margin-bottom: 5%;
+}
+
+#content-container {
+    padding: 2%;
+    color: blanchedalmond;
+    background-color: black;
+}
